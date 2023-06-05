@@ -219,8 +219,3 @@ class BoxSwappingAnimation:
                 except:
                     print("\nExisting Forcefully ...")
                     return
-
-
-# Run the animation
-animation = BoxSwappingAnimation()
-animation.run()
